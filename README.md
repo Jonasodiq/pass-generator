@@ -11,4 +11,4 @@
 
 **In summary, the app is a useful tool for quickly generating secure and diverse passwords that can be used to protect online accounts and data.**
 
-### [Link to](go-pass-generator.netlify.app)
+### [Link to](https://go-pass-generator.netlify.app)
